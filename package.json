@@ -1,0 +1,20 @@
+{
+  "name": "portfolio-backend",
+  "version": "1.0.0",
+  "description": "personal portfolio API and backend",
+  "homepage": "https://github.com/fatheddine-bicane/portfolio-backend#readme",
+  "bugs": {
+    "url": "https://github.com/fatheddine-bicane/portfolio-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatheddine-bicane/portfolio-backend.git"
+  },
+  "license": "MIT",
+  "author": "Fatheddine BICANE",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
